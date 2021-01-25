@@ -30,13 +30,21 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _Any known issues_
 * _should go here_
 
+
 ## Specifications
 ```
 Describe: Destination
 Test: Create a constructer with location, date visited and landmarks and to see if the user input updates a new object with constructor specs.
 Expect : UserInput.CreateNew
 let newOrleans = new Destination("New Orleans", "Super Dome", "10/16").toEqual(NewObjectWithConstructerLayout)
+
+test: User inputs at form for Location and for the input to become assigned variable.
+expect: Userinput.location to.Become(Var inputLocation)
+
+Test: Take user input and display it in DIV below with object properties
+Expect : 
 ```
+
 
 ## License
 
