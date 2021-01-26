@@ -1,13 +1,9 @@
-# _{Application Name}_
+# _Destinations_
 
-#### _{Brief description of application}_
+#### _List of Destinations Traveled_
 
 #### Authors:
-_**Jo Miller**_
-
-_**Jer Miller**_ <gkstaff@gmail.com>
-
-_**Maxwell Meyer**_ 
+_**Jo Miller, Jer Miller, Maxwell Meyer**_
 
 ## Technologies Used
 
@@ -17,7 +13,7 @@ _**Maxwell Meyer**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Enter information about the places that you have traveled to to see them all populated in a list._
 
 ## Setup/Installation Requirements
 
@@ -27,8 +23,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Still under construction, does not have full functionality yet._
 
 
 ## Specifications
@@ -49,13 +44,7 @@ Describe: Destination
 
   Expect: 
 
-  
-
-
-
-
 ```
-
 
 ## License
 
@@ -63,7 +52,9 @@ Describe: Destination
 
 ## Contact Information
 
-_Jo Miller: joannamiller@gmail.com_
+_Jo Miller: joannamiller@gmail.com_ <br>
+_Jer Miller: gkstaff@gmail.com_ <br>
+_Maxwell Meyer: maxreadswell@gmail.com_
 
 
 
